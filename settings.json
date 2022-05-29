@@ -22,7 +22,7 @@
      "autoblockcmd" : false, 
      "autobio" : true,
      "autoLevel" : true,
-     "AutoClearChat": true,
+     "AutoClearChat": false,
      "totalForward" : 1000000,
      "explain": false,
      "jumlahTroli": 2022,
